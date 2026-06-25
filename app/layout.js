@@ -1,8 +1,6 @@
-import "./globals.css";
-
 export const metadata = {
   title: "NEX SCRAPER",
-  description: "Website Source Analyzer",
+  description: "Website Analyzer"
 };
 
 export default function RootLayout({ children }) {
@@ -12,4 +10,3 @@ export default function RootLayout({ children }) {
     </html>
   );
 }
-~/scraper/app $
