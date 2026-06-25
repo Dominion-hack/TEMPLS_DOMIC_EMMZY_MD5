@@ -1,6 +1,8 @@
+import "./globals.css";
+
 export const metadata = {
   title: "NEX SCRAPER",
-  description: "Website Analyzer"
+  description: "Website Source Analyzer",
 };
 
 export default function RootLayout({ children }) {
